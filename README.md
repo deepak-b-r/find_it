@@ -43,6 +43,7 @@
 - [Getting Started & Build Instructions](#-getting-started--build-instructions)
 - [Permissions & Offline Setup](#-permissions--offline-setup)
 - [Safety & Privacy Commitment](#-safety--privacy-commitment)
+- [Team](#-team)
 - [Hackathon Jury & Technical Reference](#-hackathon-jury--technical-reference)
 
 ---
@@ -393,7 +394,7 @@ $ flutter test
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/deepak-b-r/find_it.git
-   cd findit
+   cd find_it
    ```
 
 2. **Install Flutter dependencies:**
@@ -473,6 +474,14 @@ FindIt was extensively verified in a strict, zero-connectivity environment (**Ai
 
 > **🔐 Zero Telemetry & Total Privacy**  
 > Camera frames and audio streams are processed in volatile memory on the device's local CPU and background Dart isolates. **No video, photos, audio clips, or personal data are ever recorded, stored on disk, or transmitted to any cloud server.** FindIt does not require account creation, login, or subscriptions.
+
+---
+
+## 👥 Team
+
+- **Deepak B R**
+- **Pavan**
+- **Prem**
 
 ---
 

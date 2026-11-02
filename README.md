@@ -392,7 +392,7 @@ $ flutter test
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/lunadadxx-del/findit.git
+   git clone https://github.com/deepak-b-r/find_it.git
    cd findit
    ```
 
